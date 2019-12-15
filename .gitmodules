@@ -1,0 +1,3 @@
+[submodule "BigDataSparkNotebook"]
+	path = BigDataSparkNotebook
+	url = https://github.com/cmalla94/BigDataSparkNotebook.git
