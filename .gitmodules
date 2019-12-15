@@ -1,3 +1,6 @@
 [submodule "BigDataSparkNotebook"]
 	path = BigDataSparkNotebook
 	url = https://github.com/cmalla94/BigDataSparkNotebook.git
+[submodule "BankStatementDashboard"]
+	path = BankStatementDashboard
+	url = https://github.com/cmalla94/BankStatementDashboard.git
