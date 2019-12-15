@@ -1,0 +1,35 @@
+index,amount,Date,Place,City,Category
+0,31.52,2019-06-22,Cactus Club Cafe,BURNABY,Food
+0,20.88,2019-06-22,Liqour Store,COQUITLAM,Entertainment
+0,12.31,2019-06-01,Shopper's Drug Mart,VANCOUVER,Personal
+0,31.65,2019-06-02,Sushi California,COQUITLAM,Food
+0,27.30,2019-06-02,Petrocanada,SURREY,Transportation
+0,50.60,2019-06-03,Amazon,Unknown,Gifts
+0,2.72,2019-06-03,Tim Hortons,SURREY,Food
+0,4.1,2019-06-03,Dana,RICHMOND,Food
+0,4.99,2019-06-04,Spotify,Unknown,Subscriptions
+0,5.78,2019-06-04,Coco,COQUITLAM,Food
+0,1.6,2019-06-05,Dana,RICHMOND,Food
+0,20.37,2019-06-06,Tokyo Joe's Sushi,RICHMOND,Food
+0,16.18,2019-06-07,Pho Mr. Do,BURNABY,Food
+0,41.28,2019-06-09,Petrocanada,SURREY,Transportation
+0,42,2019-06-09,Parking Ticket,VANCOUVER,Personal
+0,4,2019-06-10,Dana,RICHMOND,Food
+0,11.55,2019-06-10,Pizza Hut,SURREY,Food
+0,4.52,2019-06-10,Fusion Wok,BURNABY,Food
+0,3.98,2019-06-10,McDonald's,RICHMOND,Food
+0,56,2019-06-11,Shaw,Unknown,Subscriptions
+0,7.30,2019-06-12,Ha Cafe,BURNABY,Food
+0,3.05,2019-06-12,Dana,RICHMOND,Food
+0,4.5,2019-06-13,McDonald's,COQUITLAM,Food
+0,3,2019-06-14,Dana,RICHMOND,Food
+0,14.25,2019-06-15,YVR Parking,RICHMOND,Personal
+0,54.93,2019-06-16,Petrocanada,SURREY,Transportation
+0,2.93,2019-06-18,McDonalad's,BURNABY,Food
+0,19.08,2019-06-20,Jinya,BURNABY,Food
+0,4.05,2019-06-20,Dana,RICHMOND,Food
+0,20.13,2019-06-20,Walmart,BURNABY,Personal
+0,18.73,2019-06-20,Petrocanada,COQUITLAM,Transportation
+0,8.05,2019-06-21,Faculty Brewing,VANCOUVER,Food
+0,27.40,2019-06-21,Warehouse,VANCOUVER,Food
+
