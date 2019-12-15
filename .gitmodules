@@ -4,3 +4,6 @@
 [submodule "BankStatementDashboard"]
 	path = BankStatementDashboard
 	url = https://github.com/cmalla94/BankStatementDashboard.git
+[submodule "DogDCGAN"]
+	path = DogDCGAN
+	url = https://github.com/cmalla94/DCGAN_GenDogs.git
